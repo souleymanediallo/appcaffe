@@ -1,0 +1,17 @@
+
+.navbar-brand, .top-menu .nav-item .nav-link {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+}
+
+.bg-contact {
+    background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("/static/images/bg.jpg");
+    height: 300px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.bg-log {
+    background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("/static/images/bg.jpg");
+}
